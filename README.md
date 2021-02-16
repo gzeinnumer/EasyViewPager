@@ -7,10 +7,10 @@
 </h1>
 
 <div align="center">
-    <a><img src="https://img.shields.io/badge/Version-2.0.0-brightgreen.svg?style=flat"></a>
+    <a><img src="https://img.shields.io/badge/Version-2.0.1-brightgreen.svg?style=flat"></a>
     <a><img src="https://img.shields.io/badge/ID-gzeinnumer-blue.svg?style=flat"></a>
     <a><img src="https://img.shields.io/badge/Java-Suport-green?logo=java&style=flat"></a>
-    <a><img src="https://img.shields.io/badge/Koltin-Suport-green?logo=kotlin&style=flat"></a>
+    <a><img src="https://img.shields.io/badge/Kotlin-Suport-green?logo=kotlin&style=flat"></a>
     <a href="https://github.com/gzeinnumer"><img src="https://img.shields.io/github/followers/gzeinnumer?label=follow&style=social"></a>
     <br>
     <p>Simple way to use ViewPager, dots and tab</p>
@@ -237,12 +237,12 @@ dotsTab.getTabAt(0).select(); // index page start from 0...FragmentLength - 1
   - First Release
 - **1.0.1**
   - Add `simpleViewPager.setSelectedPosition(1);`
-- **2.0.0**
+- **2.0.1**
   - Support SDK 16
 
 ---
 # Contribution
-You can sent your constibution to `branche` `open-pull`.
+You can sent your constibution to `branch` `open-pull`.
 
 ---
 
