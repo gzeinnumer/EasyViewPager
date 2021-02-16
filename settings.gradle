@@ -1,0 +1,3 @@
+include ':evp'
+include ':app'
+rootProject.name = "EasyViewPager"
